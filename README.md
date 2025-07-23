@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Alex 👋
+🔭 I’m currently working on finishing my Bachelor's in Computational Mathematics at the University of California, Los Angeles (UCLA)
+📫 How to reach me: alex.wu1288@gmail.com
 
 <!--
 **awu8732/awu8732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
